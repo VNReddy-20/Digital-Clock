@@ -33,5 +33,4 @@ function update() {
         .classList
         .add('active');
 };
-
 setInterval(update, 500);
